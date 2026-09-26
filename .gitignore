@@ -12,8 +12,8 @@ diff.log
 
 # 输入输出数据（如果想保留测试数据可以删掉下面两行）
 *.in
-ac_out.txt
-solve_out.txt
+*.out
+*.txt
 
 # IDE 和插件配置
 .vscode/
