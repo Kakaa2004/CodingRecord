@@ -1,0 +1,25 @@
+# 编译产物
+*.exe
+*.out
+*.o
+*.obj
+*.exe.stackdump
+
+# 日志和临时文件
+*.log
+dbg.log
+diff.log
+
+# 输入输出数据（如果想保留测试数据可以删掉下面两行）
+*.in
+ac_out.txt
+solve_out.txt
+
+# IDE 和插件配置
+.vscode/
+.cph/
+.claude/
+
+# 系统文件
+Thumbs.db
+.DS_Store
